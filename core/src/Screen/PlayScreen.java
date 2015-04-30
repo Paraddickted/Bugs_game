@@ -29,7 +29,7 @@ public class PlayScreen implements Screen {
     MyGdxGame game;
     Stage stage;
     Table table = new Table();
-
+//111
     Group group_bug = new Group();
     Group group_stage = new Group();
 
