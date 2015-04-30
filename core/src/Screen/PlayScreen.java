@@ -30,6 +30,7 @@ public class PlayScreen implements Screen {
     Stage stage;
     Table table = new Table();
 //111
+    //22222
     Group group_bug = new Group();
     Group group_stage = new Group();
 
